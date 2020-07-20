@@ -1,0 +1,5 @@
+# Paint_app_using_Webgl - PROJETO LIVRE {REPROGRAMA}
+APLICATIVO DE DESENHO COM CONCEITO AFRICANIZADO.
+por ODARAYA MELLO.
+
+contact: odarayamello@gmail.com
