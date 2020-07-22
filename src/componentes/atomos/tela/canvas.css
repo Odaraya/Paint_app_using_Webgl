@@ -1,4 +1,7 @@
  canvas{
+     display: grid;
+     place-items: center;
+     margin-left: 17%;
 background: seashell;
 margin-top: 5%;
 }

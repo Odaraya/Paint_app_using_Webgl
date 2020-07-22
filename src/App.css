@@ -20,20 +20,16 @@ body{
 }
 
 .toolbox.left{
-  left: 0px;
+  left: 0x;
   top: 0px;
+}
+.material-icons{
+  display: flow-root;
+  margin-top: 10%
+
 }
  .toolbox.rigth{
    right: 0px;
    top: 0px;
- }
-
-
- #canvas{
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%,-50%);
-   background-color: white;
  }
 
