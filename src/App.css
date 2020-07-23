@@ -1,35 +1,82 @@
 body{
   margin: 0px;
-  /* background-color: #352414; */
+  background-color: #352414;
   text-align: center;
-  background-image: url("https://media.giphy.com/media/3oGRFI5AnzkQIuj2lq/giphy.gif");
+  /* background-image: url("https://media.giphy.com/media/3oGRFI5AnzkQIuj2lq/giphy.gif"); */
   background-size: cover;
   background-repeat: inherit;
-  color: #4b1e04e5;
-  
+  /* color: #4b1e04e5; */
+ 
 }
 
-.header{
-  margin-top: 3px;
+header{
+  background: #a8400485 ;
 }
+
+footer{
+  height: 40px;
+  width: 100%;
+  background-color: #a8400485;
+  position: absolute ;
+  bottom: 0px ;
+}
+/* colunas das caixas */
 .toolbox{
   height: 100vh;
   position: absolute;
   background-color: #a8400485;
-  width:100px;
+  width:10%;
 }
 
+/* caixa esquerda */
 .toolbox.left{
-  left: 0x;
+  left: 0px; 
   top: 0px;
 }
 .material-icons{
   display: flow-root;
-  margin-top: 10%
-
+  margin-top: 25% ;
+  cursor: cell;
 }
- .toolbox.rigth{
-   right: 0px;
-   top: 0px;
- }
+.toolbox .material-icons:hover{
+background-color:  #a84004;
+}
+.group--tamanho-linha{
+  /* PROVISORIO */
+  text-align: center;
+  margin-left: 50%;
+} 
+.toolbox .group--comand{
+  padding-bottom: 3%;
+  border-bottom:  medium  solid #3d1a06;
+}
+.toolbox .group--formas{
+  padding-bottom: 3%;
+  border-bottom: medium  solid #3d1a06;
+}
+.toolbox .group--pinceis{
+  padding-bottom: 3%;
+  border-bottom: medium solid #3d1a06;
+}
 
+/* caixa  direita */
+.toolbox.rigth{
+  right: 0px;
+  top: 0px;
+}
+.group--amostras{
+  margin-top: 25%;
+  display: inline-block;
+}
+.toolbox  .item .cores{
+  width: 35px;
+  height: 35px;
+  border: 2px solid white;
+  margin-top: 10% ;
+  cursor: cell;
+}
+
+
+.toolbox  .item:hover{
+  background-color:  #a84004;
+  }
