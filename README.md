@@ -1,4 +1,4 @@
-# Áwòrán - Odd paint - desktopJust - PROJETO LIVRE {REPROGRAMA}
+# Áwòrán - Odd paint - desktop*Just* - PROJETO LIVRE {REPROGRAMA}
  - PROJETO LIVRE {REPROGRAMA}
  APLICATIVO DE DESENHO COM CONCEITO AFRICANIZADO. 
  Paint_app_using_Webgl 
