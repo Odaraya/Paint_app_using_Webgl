@@ -1,11 +1,11 @@
-# Áwòrán - Odd paint - desktop*Just* - PROJETO LIVRE {REPROGRAMA}
+# Àwòrán - Odd paint - desktop*Just* - PROJETO LIVRE {REPROGRAMA}
  - PROJETO LIVRE {REPROGRAMA}
  APLICATIVO DE DESENHO COM CONCEITO AFRICANIZADO. 
  Paint_app_using_Webgl 
  
  !! APENAS PARA DESKTOP - JUST FOR DESKTOP !!
  
-Áwòrán palavra da lingua Yoruba para desenho, imagem, quadro. 
+Àwòrán palavra da lingua Yoruba para desenho, imagem, quadro. 
 Esta plataforma foi desenvolvida para resgatar os fundamentos e as ferramentas inicias da criação visual.
 Enjoy
 por ODARAYA MELLO.
