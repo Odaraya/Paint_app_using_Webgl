@@ -1,17 +1,25 @@
 body{
   margin: 0px;
-  background-color: #352414;
+  /* background-color: #352414; */
   text-align: center;
-  /* background-image: url("https://media.giphy.com/media/3oGRFI5AnzkQIuj2lq/giphy.gif"); */
+  background-image: url("https://media.giphy.com/media/3oGRFI5AnzkQIuj2lq/giphy.gif");
   background-size: cover;
   background-repeat: inherit;
-  /* color: #4b1e04e5; */
- 
+  color: #4b1e04e5;
 }
 
+
+
+
 header{
-  background: #a8400485 ;
+  height: 60px;
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow:-6px 6px 0px #a84004cb;
+  background: #a8400485 ;  
+  padding-top: 0%;
 }
+
 
 footer{
   height: 40px;
@@ -25,7 +33,7 @@ footer{
   height: 100vh;
   position: absolute;
   background-color: #a8400485;
-  width:10%;
+  width:8%;
 }
 
 /* caixa esquerda */
