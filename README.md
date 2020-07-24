@@ -2,6 +2,7 @@
  - PROJETO LIVRE {REPROGRAMA}
  APLICATIVO DE DESENHO COM CONCEITO AFRICANIZADO. 
  Paint_app_using_Webgl 
+ 
  !! JUST FOR DESKTOP !!
  
 Áwòrán palavra da lingua Yoruba para desenho, imagem, quadro. 
